@@ -1,19 +1,26 @@
 
 opcao = int(input("Digite a opção: "))
-num1 = float(input("Digite o primeiro número: "))
-num2 = float(input("Digite o segundo número: "))
-num3 = float(input("Digite o terceiro número: "))
+
 
 print("---------------------------------------")
 
 if opcao==2:
+    num1 = float(input("Digite o primeiro número: "))
+    num2 = float(input("Digite o segundo número: "))
+    num3 = float(input("Digite o terceiro número: "))
     resultado = num1 + num2 + num3
     print(f"A soma dos números : {num1} + {num2} + {num3}  \nO resultado : {resultado:.2f}")
 elif opcao == 3:
+    num1 = float(input("Digite o primeiro número: "))
+    num2 = float(input("Digite o segundo número: "))
+    num3 = float(input("Digite o terceiro número: "))
     resultado = num1 * num2 * num3 
     print(f"A mutiplicação dos números: {num1} * {num2} * {num3}  \nO resultado : {resultado:.2f}")
 
 elif opcao == 4:
+    num1 = float(input("Digite o primeiro número: "))
+    num2 = float(input("Digite o segundo número: "))
+    num3 = float(input("Digite o terceiro número: "))
     if num1 + num2 > num3:
         resultado = "maior que"
     elif num1 + num2 < num3:
