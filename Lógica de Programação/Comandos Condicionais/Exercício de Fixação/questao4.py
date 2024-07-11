@@ -29,4 +29,4 @@ elif opcao == 4:
         resultado = "igual a"
     print(f"A soma de {num1} e {num2} é {resultado} {num3}")
 else:
-    print("Opção inválida. Digite 2, 3 ou 4 para realizar a operação desejada.")
+    print("Opção  inválida. Digite 2, 3 ou 4 para realizar a operação desejada.")
