@@ -9,6 +9,6 @@ else:
     print("Opção de quarto inválida. Informe 1 ou 2.")
   
 
-print(f"O valor total a ser pago é: R${valor_total:.2f}")
+print(f"O  valor total a ser pago é: R${valor_total:.2f}")
 
 
