@@ -3,7 +3,7 @@ nome_arquivo_criacao = "arquivo4.txt"
 conteudo = (
     "Acredite em si mesmo e você será imbatível.\n"
     "A persistência leva ao sucesso.\n"
-    "Encare cada desafio como uma chance de crescimento…\n"
+    "Encare cada desafio como uma chance de crescimento.\n"
 )
 
 with open(nome_arquivo_criacao, "w") as arquivo:
