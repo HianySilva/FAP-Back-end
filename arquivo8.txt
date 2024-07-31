@@ -1,0 +1,1 @@
+Este é o conteúdo do primeiro arquivo. Será concatenado com o conteúdo do segundo arquivo.
